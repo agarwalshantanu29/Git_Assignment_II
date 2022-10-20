@@ -1,5 +1,6 @@
 //check string is palindrome or not
 let str="abcd";
+let bag =""
 for(let i=str.length-1;i>=0;i--)
 {
 bag+=str
